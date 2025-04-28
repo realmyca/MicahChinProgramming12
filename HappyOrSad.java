@@ -50,4 +50,4 @@ public class HappyOrSad {
     }
 }
 
-// I felt :-( this morning, but then I ate pizza :-), saw a puppy :-), and now I'm happy :-) instead of sad :-(!
+// I felt :-( this morning, but then I ate pizza :-) and saw a puppy :-). Now I'm happy :-).
